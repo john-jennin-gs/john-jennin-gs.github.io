@@ -6,14 +6,22 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
+<<<<<<< HEAD
       "last_modified": "2020-10-25T18:40:43+00:00"
+=======
+      "last_modified": "2020-10-25T14:50:46+00:00"
+>>>>>>> bb664f3a90f44872659edae02cdf9c08ed6225c1
     },
     {
       "path": "index.html",
       "title": "John Jennings",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
+<<<<<<< HEAD
       "last_modified": "2020-10-25T18:40:44+00:00"
+=======
+      "last_modified": "2020-10-25T14:50:47+00:00"
+>>>>>>> bb664f3a90f44872659edae02cdf9c08ed6225c1
     }
   ],
   "collections": ["posts/posts.json"]
