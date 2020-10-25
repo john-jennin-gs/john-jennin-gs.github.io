@@ -1,0 +1,35 @@
+---
+title: "Welcome to Johns Blog"
+description: |
+  A short description of the post.
+
+categories:
+  - portfolios
+  - dygraphs
+  
+author:
+  - name: John Jennings 
+    url: https://example.com/johnjennings
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+    orcid_id: https://orcid.org/0000-0002-6752-7902
+    
+date: "`r Sys.Date()`"
+
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
