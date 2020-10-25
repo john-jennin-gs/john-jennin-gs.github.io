@@ -1,6 +1,5 @@
 name: "john.jennin.gs"
-<<<<<<< HEAD
-title: "John Jennings' blog"
+title: "John Jennings blog"
 description: |
   John Jennings' blog 
 collections:
@@ -13,13 +12,7 @@ collections:
     
 base_url: https://john.jennin.gs
 
-output_dir: "_site"
-=======
-title: "John Jennings"
-description: |
-  My Blog
 output_dir: "docs"
->>>>>>> bb664f3a90f44872659edae02cdf9c08ed6225c1
 navbar:
   right:
     - text: "Home"

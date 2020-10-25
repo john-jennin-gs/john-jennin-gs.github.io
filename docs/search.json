@@ -6,22 +6,28 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-<<<<<<< HEAD
-      "last_modified": "2020-10-25T18:40:43+00:00"
-=======
-      "last_modified": "2020-10-25T14:50:46+00:00"
->>>>>>> bb664f3a90f44872659edae02cdf9c08ed6225c1
+      "last_modified": "2020-10-25T21:13:58+00:00"
     },
     {
       "path": "index.html",
-      "title": "John Jennings",
+      "title": "John Jennings' blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-<<<<<<< HEAD
-      "last_modified": "2020-10-25T18:40:44+00:00"
-=======
-      "last_modified": "2020-10-25T14:50:47+00:00"
->>>>>>> bb664f3a90f44872659edae02cdf9c08ed6225c1
+      "last_modified": "2020-10-25T21:13:59+00:00"
+    },
+    {
+      "path": "test.html",
+      "title": "Welcome",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "John Jennings",
+          "url": "https://example.com/johnjennings"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\n\r\nContents\r\nLEvel 1\r\nLevel 1Level 2\r\nLEvel 2\r\n\r\n\r\nLEvel 1\r\nfddsdfsdf\r\nLevel 1\r\nLevel 2\r\ndfdfdfs\r\nLEvel 2\r\ndfsfdf\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-10-25T21:14:00+00:00"
     }
   ],
   "collections": ["posts/posts.json"]

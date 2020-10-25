@@ -86,29 +86,33 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
 </style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>John Jennings blog: About this blog</title>
+  <title>John Jennings blog: Welcome</title>
   
-  <meta property="description" itemprop="description" content="Some additional details about the blog"/>
+  <meta property="description" itemprop="description" content="A new article created using the Distill format."/>
   
   
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2020-10-25"/>
+  <meta property="article:created" itemprop="dateCreated" content="2020-10-25"/>
+  <meta name="article:author" content="John Jennings"/>
   
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="John Jennings blog: About this blog"/>
+  <meta property="og:title" content="John Jennings blog: Welcome"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="Some additional details about the blog"/>
+  <meta property="og:description" content="A new article created using the Distill format."/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="John Jennings blog"/>
   
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="John Jennings blog: About this blog"/>
-  <meta property="twitter:description" content="Some additional details about the blog"/>
+  <meta property="twitter:title" content="John Jennings blog: Welcome"/>
+  <meta property="twitter:description" content="A new article created using the Distill format."/>
   
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["About this blog"]},{"type":"character","attributes":{},"value":["Some additional details about the blog"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Welcome"]},{"type":"character","attributes":{},"value":["A new article created using the Distill format.\n"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url","affiliation","affiliation_url","orcid_id"]}},"value":[{"type":"character","attributes":{},"value":["John Jennings"]},{"type":"character","attributes":{},"value":["https://example.com/johnjennings"]},{"type":"character","attributes":{},"value":["Spacely Sprockets"]},{"type":"character","attributes":{},"value":["https://example.com/spacelysprokets"]},{"type":"character","attributes":{},"value":["https://orcid.org/0000-0002-6752-7902"]}]}]},{"type":"character","attributes":{},"value":["2020-10-25"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2013,7 +2017,7 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"About this blog","description":"Some additional details about the blog","authors":[]}
+{"title":"Welcome","description":"A new article created using the Distill format.","authors":[{"author":"John Jennings","authorURL":"https://example.com/johnjennings","affiliation":"Spacely Sprockets","affiliationURL":"https://example.com/spacelysprokets","orcidID":"https://orcid.org/0000-0002-6752-7902"}],"publishedDate":"2020-10-25T00:00:00.000+01:00","citationText":"Jennings, 2020"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2036,14 +2040,40 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>About this blog</h1>
+<h1>Welcome</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>Some additional details about the blog</p></p>
+<p><p>A new article created using the Distill format.</p></p>
 </div>
 
+<div class="d-byline">
+  John Jennings <a href="https://example.com/johnjennings" class="uri">https://example.com/johnjennings</a> (Spacely Sprockets)<a href="https://example.com/spacelysprokets" class="uri">https://example.com/spacelysprokets</a>
+  
+<br/>2020-10-25
+</div>
 
 <div class="d-article">
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#level-1">LEvel 1</a></li>
+<li><a href="#level-1-1">Level 1</a><ul>
+<li><a href="#level-2">Level 2</a></li>
+<li><a href="#level-2-1">LEvel 2</a></li>
+</ul></li>
+</ul>
+</nav>
+</div>
+<h1 id="level-1">LEvel 1</h1>
+<p>fddsdfsdf</p>
+<h1 id="level-1-1">Level 1</h1>
+<h2 id="level-2">Level 2</h2>
+<p>dfdfdfs</p>
+<h2 id="level-2-1">LEvel 2</h2>
+<p>dfsfdf</p>
+<p>Distill is a publication format for scientific and technical writing, native to the web.</p>
+<p>Learn more about using Distill for R Markdown at <a href="https://rstudio.github.io/distill" class="uri">https://rstudio.github.io/distill</a>.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
