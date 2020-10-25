@@ -12,7 +12,7 @@ author:
     url: https://example.com/johnjennings
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
-    orcid_id: https://orcid.org/0000-0002-6752-7902
+    orcid_id: 0000-0002-6752-7902
     
 date: "`r Sys.Date()`"
 

@@ -1,5 +1,6 @@
 name: "john.jennin.gs"
-title: "John Jennings blog"
+title: "John Jennings
+blog"
 description: |
   John Jennings' blog 
 collections:
@@ -7,7 +8,7 @@ collections:
     categories: false
     categories_metadata: false
     authors_metadata: false
-    disqus: reproducible-finance-with-r
+    disqus: john_jennin_gs_disqus
     share: [twitter, linkedin]
     
 base_url: https://john.jennin.gs
