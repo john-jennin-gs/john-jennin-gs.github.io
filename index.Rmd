@@ -1,5 +1,0 @@
----
-title: "John Jennings' blog"
-site: distill::distill_website
-listing: posts
----
