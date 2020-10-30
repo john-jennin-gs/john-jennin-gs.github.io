@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>https://john-jennin-gs.github.io/publication/</link>
-      <atom:link href="https://john-jennin-gs.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | John Jennings</title>
+    <link>https://john.jennin.gs/publication/</link>
+      <atom:link href="https://john.jennin.gs/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy 2020</copyright>
     <image>
-      <url>https://john-jennin-gs.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://john.jennin.gs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://john-jennin-gs.github.io/publication/</link>
+      <link>https://john.jennin.gs/publication/</link>
     </image>
     
   </channel>
