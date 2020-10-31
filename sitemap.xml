@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://john.jennin.gs/authors/</loc>
+    <lastmod>2020-10-31T19:20:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john.jennin.gs/tag/aws/</loc>
+    <lastmod>2020-10-31T19:20:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john.jennin.gs/categories/</loc>
+    <lastmod>2020-10-31T19:20:23+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://john.jennin.gs/project/cloud-optimisation/</loc>
+    <lastmod>2020-10-31T19:20:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john.jennin.gs/tag/innovation-voucher/</loc>
+    <lastmod>2020-10-31T19:20:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john.jennin.gs/category/innovation-voucher/</loc>
+    <lastmod>2020-10-31T19:20:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://john.jennin.gs/author/john-jennings/</loc>
     <lastmod>2020-10-31T19:20:23+00:00</lastmod>
   </url>
   
@@ -18,12 +48,8 @@
   </url>
   
   <url>
-    <loc>https://john.jennin.gs/authors/</loc>
-    <lastmod>2020-10-21T23:38:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john.jennin.gs/categories/</loc>
+    <loc>https://john.jennin.gs/tags/</loc>
+    <lastmod>2020-10-31T19:20:23+00:00</lastmod>
   </url>
   
   <url>
@@ -48,10 +74,6 @@
   <url>
     <loc>https://john.jennin.gs/talk/</loc>
     <lastmod>2020-07-29T20:27:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://john.jennin.gs/tags/</loc>
   </url>
   
 </urlset>
