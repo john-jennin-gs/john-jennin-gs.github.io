@@ -5,20 +5,12 @@
     <link>https://john.jennin.gs/author/john-jennings/</link>
       <atom:link href="https://john.jennin.gs/author/john-jennings/index.xml" rel="self" type="application/rss+xml" />
     <description>John Jennings</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy 2020</copyright><lastBuildDate>Sat, 31 Oct 2020 19:20:23 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy 2020</copyright>
     <image>
       <url>https://john.jennin.gs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>John Jennings</title>
       <link>https://john.jennin.gs/author/john-jennings/</link>
     </image>
-    
-    <item>
-      <title>Cloud Optimisation</title>
-      <link>https://john.jennin.gs/project/cloud-optimisation/</link>
-      <pubDate>Sat, 31 Oct 2020 19:20:23 +0000</pubDate>
-      <guid>https://john.jennin.gs/project/cloud-optimisation/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
