@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AWS | John Jennings</title>
-    <link>https://john.jennin.gs/tag/aws/</link>
-      <atom:link href="https://john.jennin.gs/tag/aws/index.xml" rel="self" type="application/rss+xml" />
-    <description>AWS</description>
+    <title>Articulate | John Jennings</title>
+    <link>https://john.jennin.gs/tag/articulate/</link>
+      <atom:link href="https://john.jennin.gs/tag/articulate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Articulate</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Nov 2020 08:31:10 +0000</lastBuildDate>
     <image>
       <url>https://john.jennin.gs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>AWS</title>
-      <link>https://john.jennin.gs/tag/aws/</link>
+      <title>Articulate</title>
+      <link>https://john.jennin.gs/tag/articulate/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://john.jennin.gs/project/articulate-cloud-deloyment/</link>
       <pubDate>Sun, 01 Nov 2020 08:31:10 +0000</pubDate>
       <guid>https://john.jennin.gs/project/articulate-cloud-deloyment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud Optimisation</title>
-      <link>https://john.jennin.gs/project/cloud-optimisation/</link>
-      <pubDate>Sat, 31 Oct 2020 19:20:23 +0000</pubDate>
-      <guid>https://john.jennin.gs/project/cloud-optimisation/</guid>
       <description></description>
     </item>
     

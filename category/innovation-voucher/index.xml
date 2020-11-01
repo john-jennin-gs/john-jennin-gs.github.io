@@ -5,12 +5,28 @@
     <link>https://john.jennin.gs/category/innovation-voucher/</link>
       <atom:link href="https://john.jennin.gs/category/innovation-voucher/index.xml" rel="self" type="application/rss+xml" />
     <description>Innovation Voucher</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 31 Oct 2020 19:20:23 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Nov 2020 08:31:10 +0000</lastBuildDate>
     <image>
       <url>https://john.jennin.gs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Innovation Voucher</title>
       <link>https://john.jennin.gs/category/innovation-voucher/</link>
     </image>
+    
+    <item>
+      <title>Articulate Cloud Deployment</title>
+      <link>https://john.jennin.gs/project/articulate-cloud-deloyment/</link>
+      <pubDate>Sun, 01 Nov 2020 08:31:10 +0000</pubDate>
+      <guid>https://john.jennin.gs/project/articulate-cloud-deloyment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile App Design</title>
+      <link>https://john.jennin.gs/project/mobile-app-design/</link>
+      <pubDate>Sun, 01 Nov 2020 08:24:29 +0000</pubDate>
+      <guid>https://john.jennin.gs/project/mobile-app-design/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cloud Optimisation</title>
