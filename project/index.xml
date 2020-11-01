@@ -5,12 +5,36 @@
     <link>https://john.jennin.gs/project/</link>
       <atom:link href="https://john.jennin.gs/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Nov 2020 08:31:10 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
       <url>https://john.jennin.gs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://john.jennin.gs/project/</link>
     </image>
+    
+    <item>
+      <title>Unity Vr Meditation</title>
+      <link>https://john.jennin.gs/project/unity-vr-meditation/</link>
+      <pubDate>Sun, 01 Nov 2020 11:37:49 +0000</pubDate>
+      <guid>https://john.jennin.gs/project/unity-vr-meditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moodle Deployment</title>
+      <link>https://john.jennin.gs/project/moodle-deployment/</link>
+      <pubDate>Sun, 01 Nov 2020 11:31:02 +0000</pubDate>
+      <guid>https://john.jennin.gs/project/moodle-deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mozilla Hubs</title>
+      <link>https://john.jennin.gs/project/mozilla-hubs/</link>
+      <pubDate>Sun, 01 Nov 2020 08:58:48 +0000</pubDate>
+      <guid>https://john.jennin.gs/project/mozilla-hubs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Articulate Cloud Deployment</title>
